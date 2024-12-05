@@ -1,21 +1,22 @@
 # 👨‍💻 About Me
 
-Hello, I'm **Howard Zheng**. 👋 
+Hello, I'm **Howard Zheng**. 👋 You can also call me **HEX9CF**. 
 
-*You can also call me **HEX9CF**.* 
-
+- 🌱 I'm currently learning **how to write, compile and run a hello world program**.
 - 🧑‍🎓 Major in **Computer Science**.
-- ❤️ I like games, anime, and photography.
-
-# 📫 How to reach me
-
-- Email: **aGV4OWNmQGFsaXl1bi5jb20=**
+- ❤️ I like **games**, **anime**, and **photography**.
+- 💼 I'm currently working at **Aperture Science Computer Enrichment Center**.
+- 🏢 I used to work at **Black Mesa Research Facility**.
+- 📫 How to reach me：**aGV4OWNmQGFsaXl1bi5jb20=** (Email).
+- ⚡ Fun fact: My favorite color is `#99ccff`, so my user ID is **HEX9CF**.
 
 # 🛠 Skills and Tools
 
 I have experience with the following languages, tools, and technologies:
 
 # 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HEX9CF&show_icons=true)
 
 # 🖥️ Computer Configuration
 
