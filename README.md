@@ -2,9 +2,9 @@
 
 Hello, I'm **Howard Zheng**. 👋 You can also call me **HEX9CF**. 
 
-- 🌱 I'm currently learning **how to write, compile and run a hello world program**
+- 🌱 I'm currently learning **how to write, compile and run a hello world program**.
 - 🧑‍🎓 Major in **Computer Science**.
-- ❤️ I like games, anime, and photography.
+- ❤️ I like **games**, **anime**, and **photography**.
 - 📫 How to reach me：**aGV4OWNmQGFsaXl1bi5jb20=** (Email)
 - ⚡ Fun fact: My favorite color is `#99ccff`, so my user ID is **HEX9CF**.
 
