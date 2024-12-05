@@ -13,7 +13,7 @@ I have experience with the following languages, tools, and technologies:
 
 # 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HEX9CF&show_icons=true)
 
 # 🖥️ Computer Configuration
 
