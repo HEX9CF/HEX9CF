@@ -2,7 +2,7 @@
 
 Hello, I'm **Howard Zheng**. 👋 You can also call me **HEX9CF**. 
 
-- 🌱 I'm currently learning **how to write, compile and run a hello world program**.
+- 🌱 I'm currently learning **new technologies**.
 - 🧑‍🎓 Major in **Computer Science**.
 - ❤️ I like **games**, **anime**, and **photography**.
 - 💼 I'm currently working at **Aperture Science Computer Enrichment Center**.
