@@ -1,4 +1,4 @@
-# 👨‍💻 About Me
+![image](https://github.com/user-attachments/assets/07b331ba-4023-456d-8948-8be14643aecd)# 👨‍💻 About Me
 
 Hello, I'm **Howard Zheng**. 👋 You can also call me **HEX9CF**. 
 
@@ -10,9 +10,13 @@ Hello, I'm **Howard Zheng**. 👋 You can also call me **HEX9CF**.
 - 📫 How to reach me：**aGV4OWNmQGFsaXl1bi5jb20=** (Email).
 - ⚡ Fun fact: My favorite color is `#99ccff`, so my user ID is **HEX9CF**.
 
-# 🛠 Skills and Tools
+# 🛠 Tech Stack
 
 I have experience with the following languages, tools, and technologies:
+
+- **Languages**: C/C++, Java, Python, JavaScript, Go, SQL, PHP, MATLAB, Arduino
+- **Frameworks**: Vue, Spring Boot
+- **Tools:**: Git, Docker
 
 # 📈 GitHub Stats
 
