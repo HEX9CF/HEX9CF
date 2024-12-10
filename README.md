@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/07b331ba-4023-456d-8948-8be14643aecd)# 👨‍💻 About Me
+# 👨‍💻 About Me
 
 Hello, I'm **Howard Zheng**. 👋 You can also call me **HEX9CF**. 
 
