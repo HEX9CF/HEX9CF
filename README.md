@@ -2,7 +2,7 @@
 
 Hello, I'm **Howard Zheng**. 👋 You can also call me **HEX9CF**. 
 
-- 🌱 I'm currently learning **how to write, compile and run a hello world program**.
+- 🌱 I'm currently learning **new technologies**.
 - 🧑‍🎓 Major in **Computer Science**.
 - ❤️ I like **games**, **anime**, and **photography**.
 - 💼 I'm currently working at **Aperture Science Computer Enrichment Center**.
@@ -10,9 +10,13 @@ Hello, I'm **Howard Zheng**. 👋 You can also call me **HEX9CF**.
 - 📫 How to reach me：**aGV4OWNmQGFsaXl1bi5jb20=** (Email).
 - ⚡ Fun fact: `#99ccff` is a web-safe color and also my favorite color, so my user ID is **HEX9CF**.
 
-# 🛠 Skills and Tools
+# 🛠 Tech Stack
 
 I have experience with the following languages, tools, and technologies:
+
+- **Languages**: C, C++, Java, Python, Go, PHP, JSP, HTML, CSS, JavaScript, Typescript, SQL, MATLAB, Arduino
+- **Frameworks**: SpringBoot, Gin, Flask, FastAPI, ThinkPHP, Vue.js, Element, Bootstrap, Electron, Wails, PyTorch
+- **Tools:**: Git, Docker, Maven
 
 # 📈 GitHub Stats
 
