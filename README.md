@@ -16,7 +16,7 @@ I have experience with the following languages, tools, and technologies:
 
 - **Languages**: C, C++, Java, Python, Go, PHP, JSP, HTML, CSS, JavaScript, Typescript, SQL, MATLAB, Arduino
 - **Frameworks**: SpringBoot, Gin, Flask, FastAPI, ThinkPHP, Vue.js, Element, Bootstrap, Electron, Wails, PyTorch
-- **Tools:**: Git, Docker, Maven
+- **Tools:**: Git, Vim, Docker, Maven
 
 # 📈 GitHub Stats
 
