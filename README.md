@@ -14,7 +14,7 @@ Hello, I'm **Howard Zheng**. 👋 You can also call me **HEX9CF**.
 
 I have experience with the following languages, tools, and technologies:
 
-- **Languages**: C, C++, Java, Python, Go, PHP, JSP, HTML, CSS, JavaScript, Typescript, SQL, MATLAB, Arduino
+- **Languages**: C, C++, Java, Python, Go, PHP, JSP, HTML, CSS, JavaScript, TypeScript, SQL, MATLAB, Arduino
 - **Frameworks**: SpringBoot, Gin, Flask, FastAPI, ThinkPHP, Vue.js, Element, Bootstrap, Electron, Wails, PyTorch
 - **Tools**: Git, Vim, Docker, Maven
 
