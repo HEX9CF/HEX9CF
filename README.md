@@ -24,7 +24,7 @@ I have experience with the following languages, tools, and technologies:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HEX9CF&theme=dark&show_icons=true" />
 </a>
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEX9CF&layout=compact&langs_count=8&theme=dark&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEX9CF&layout=compact&langs_count=12&theme=dark&card_width=320" />
 </a>
 
 # 🖥️ Computer Configuration
