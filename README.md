@@ -29,12 +29,12 @@ I have experience with the following languages, tools, and technologies:
 
 # 🖥️ Computer Configuration
 
-| Component   | PC                      | Laptop                                 |
-|-------------|-------------------------|----------------------------------------|
-| CPU         | AMD Ryzen 5 2600        | AMD Ryzen 7 5800H with Radeon Graphics |
-| GPU         | AMD RX580 2304SP 8G     | NVIDIA GeForce RTX 3060 Laptop GPU     |
-| RAM         | Corsair DDR4-2666MHz 8G | DDR4-3200MHz 8G *2                     |
-| SSD         | GALAX 128G              | SAMSUNG 512G + KIOXIA RC20 1T          |
-| HDD         | WDC 500G                |                                        |
-| PSU         | Huntkey 500W            |                                        |
-| Motherboard | ASUS MATX B450M         |                                        |
+| Component   | PC                       | Laptop                                 |
+|-------------|--------------------------|----------------------------------------|
+| CPU         | AMD Ryzen 5 2600         | AMD Ryzen 7 5800H with Radeon Graphics |
+| GPU         | AMD RX580 2304SP 8GB     | NVIDIA GeForce RTX 3060 Laptop GPU     |
+| RAM         | Corsair DDR4-2666MHz 8GB | DDR4-3200MHz 8GB *2                    |
+| SSD         | GALAX 128GB              | SAMSUNG 512GB + KIOXIA RC20 1TB        |
+| HDD         | WDC 500GB                |                                        |
+| PSU         | Huntkey 500W             |                                        |
+| Motherboard | ASUS MATX B450M          |                                        |
