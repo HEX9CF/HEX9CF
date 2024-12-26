@@ -14,9 +14,9 @@ Hello, I'm **Howard Zheng**. 👋 You can also call me **HEX9CF**.
 
 I have experience with the following languages, tools, and technologies:
 
-- **Languages**: C, C++, Java, Python, Go, PHP, JSP, HTML, CSS, JavaScript, TypeScript, SQL, MATLAB, Arduino
-- **Frameworks**: SpringBoot, Gin, Flask, Django, FastAPI, ThinkPHP, Vue.js, Element, Bootstrap, Electron, Wails, PyTorch
-- **Tools**: Git, Vim, Docker, Maven
+- **Languages**: C, C++, Java, Python, Go, PHP, JSP, HTML, CSS, JavaScript, Typescript, SQL, MATLAB, Arduino
+- **Frameworks**: SpringBoot, Gin, Flask, FastAPI, ThinkPHP, Vue.js, Element, Bootstrap, Electron, Wails, PyTorch
+- **Tools:**: Git, Docker, Maven
 
 # 📈 GitHub Stats
 
@@ -24,24 +24,17 @@ I have experience with the following languages, tools, and technologies:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HEX9CF&theme=dark&show_icons=true" />
 </a>
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEX9CF&layout=compact&langs_count=12&theme=dark&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEX9CF&layout=compact&langs_count=8&theme=dark&card_width=320" />
 </a>
 
 # 🖥️ Computer Configuration
 
-## PC Configuration
-
-- CPU: AMD Ryzen 5 2600
-- GPU: AMD RX580 2304SP 8G
-- RAM: Corsair DDR4-2666MHz 8G
-- SSD: GALAX 128G
-- HDD: WDC 500G
-- PSU: Huntkey 500W
-- Motherboard: ASUS MATX B450M
-
-## Laptop Configuration 
-
-- CPU: AMD Ryzen 7 5800H with Radeon Graphics
-- GPU: NVIDIA GeForce RTX 3060 Laptop GPU
-- RAM: DDR4-3200MHz 8G *2
-- SSD: SAMSUNG 512G + KIOXIA RC20 1T
+| Component   | PC                      | Laptop                                 |
+|-------------|-------------------------|----------------------------------------|
+| CPU         | AMD Ryzen 5 2600        | AMD Ryzen 7 5800H with Radeon Graphics |
+| GPU         | AMD RX580 2304SP 8G     | NVIDIA GeForce RTX 3060 Laptop GPU     |
+| RAM         | Corsair DDR4-2666MHz 8G | DDR4-3200MHz 8G *2                     |
+| SSD         | GALAX 128G              | SAMSUNG 512G + KIOXIA RC20 1T          |
+| HDD         | WDC 500G                |                                        |
+| PSU         | Huntkey 500W            |                                        |
+| Motherboard | ASUS MATX B450M         |                                        |
