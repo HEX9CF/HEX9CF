@@ -20,7 +20,7 @@ I have experience with the following languages, tools, and technologies:
 - **Frameworks**: SpringBoot, Gin, Flask, FastAPI, ThinkPHP, Vue.js, Element, Bootstrap, Electron, Wails, Java Swing, PyTorch
 - **Databases**: MySQL, PostgreSQL, Microsoft SQL Server, SQLite, MariaDB, MongoDB, Derby
 - **Middlewares**: Redis
-- **Tools**: Git, Docker, VMware, WSL, Maven, Node.js, Navicat, Jupyter Notebook
+- **Tools**: Git, Docker, VMware, WSL, Maven, Gradle, Node.js, Navicat, Conda, Jupyter Notebook
 
 # 📈 GitHub Stats
 
