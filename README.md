@@ -42,3 +42,5 @@ I have experience with the following languages, tools, and technologies:
 | HDD         | WDC 500GB                |                                        |
 | PSU         | Huntkey 500W             |                                        |
 | Motherboard | ASUS MATX B450M          |                                        |
+
+> This document is licensed under the CC BY-NC-SA 4.0, details can be found in the [LICENSE](LICENSE) file.
