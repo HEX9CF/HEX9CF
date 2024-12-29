@@ -18,9 +18,9 @@ I have experience with the following languages, tools, and technologies:
 
 - **Languages**: C, C++, Java, Python, Go, PHP, JSP, HTML, CSS, JavaScript, Typescript, SQL, Visual Basic, MATLAB, Arduino, Markdown
 - **Frameworks**: SpringBoot, Gin, Flask, FastAPI, ThinkPHP, Vue.js, Element, Bootstrap, Electron, Wails, PyTorch
-- **Database**: MySQL, PostgreSQL, Microsoft SQL Server, SQLite, MariaDB, MongoDB, Derby
-- **Middleware**: Redis
-- **Tools:**: Git, Docker, VMware, WSL, Maven, Node.js, Jupyter Notebook
+- **Databases**: MySQL, PostgreSQL, Microsoft SQL Server, SQLite, MariaDB, MongoDB, Derby
+- **Middlewares**: Redis
+- **Tools**: Git, Docker, VMware, WSL, Maven, Node.js, Jupyter Notebook
 
 # 📈 GitHub Stats
 
