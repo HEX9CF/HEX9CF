@@ -8,8 +8,8 @@ Hello, I'm **Howard Zheng**. 👋 You can also call me **HEX9CF**.
 - 📝 Language: 中文, English
 - 🧑‍🎓 Major in **Computer Science**.
 - ❤️ I like **games**, **anime**, and **photography**.
-- 💼 I'm currently working at **Aperture Science Computer Enrichment Center**.
-- 🏢 I used to work at **Black Mesa Research Facility**.
+- 💼 I'm currently working at ~~Aperture Science Computer Enrichment Center~~.
+- 🏢 I used to work at ~~Black Mesa Research Facility~~.
 - 📫 How to reach me：**aGV4OWNmQGFsaXl1bi5jb20=** (Email).
 - ⚡ Fun fact: `#99ccff` is a web-safe color and also my favorite color, so my user ID is **HEX9CF**.
 
