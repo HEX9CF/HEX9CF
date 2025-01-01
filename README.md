@@ -5,7 +5,7 @@
 Hello, I'm **Howard Zheng**. 👋 You can also call me **HEX9CF**. 
 
 - 🌱 I'm currently learning **guitar** and **new technologies**.
-- 📝 Language: 中文, English
+- 📝 Languages: 中文, English
 - 🧑‍🎓 Major in **Computer Science**.
 - ❤️ I like **games**, **anime**, and **photography**.
 - 💼 I'm currently working at ~~Aperture Science Computer Enrichment Center~~.
