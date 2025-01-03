@@ -1,4 +1,4 @@
-> Welcome, authorized personnel.
+> WELCOME, AUTHORIZED PERSONNEL.
 
 # 👨‍💻 About Me
 
@@ -12,6 +12,8 @@ Hello, I'm **Howard Zheng**. 👋 You can also call me **HEX9CF**.
 - 🏢 I used to work at ~~Black Mesa Research Facility~~.
 - 📫 How to reach me：**aGV4OWNmQGFsaXl1bi5jb20=** (Email).
 - ⚡ Fun fact: `#99ccff` is a web-safe color and also my favorite color, so my user ID is **HEX9CF**.
+
+> Now, these points of data make a beautiful line. And we're out of beta. We're releasing on time.
 
 # 🛠 Tech Stack
 
