@@ -20,10 +20,10 @@ Hello, I'm **Howard Zheng**. 👋 You can also call me **HEX9CF**.
 I have experience with the following languages, tools, and technologies:
 
 - **Languages**: C, C++, Java, Python, Go, PHP, JSP, HTML, CSS, JavaScript, Typescript, SQL, Visual Basic, MATLAB, Arduino, Markdown
-- **Frameworks**: SpringBoot, Gin, Flask, Django, FastAPI, ThinkPHP, Node.js, Vue.js, Element, Bootstrap, Electron, Wails, Java Swing, PyTorch
-- **Libraries**: MyBatis-Plus, OpenFeign, Numpy, Pandas, Matplotlib
+- **Frameworks**: SpringBoot, Gin, Flask, Django, FastAPI, ThinkPHP, Node.js, Vue.js, Element, Bootstrap, Electron, Wails, Java Swing 
+- **Libraries**: MyBatis-Plus, OpenFeign, Numpy, Pandas, Matplotlib, PyTorch
 - **Databases**: MySQL, PostgreSQL, Microsoft SQL Server, SQLite, MariaDB, Derby, MongoDB, Redis, Elasticsearch
-- **Middlewares**: Nacos, Sentinel, Seata, RabbitMQ
+- **Middlewares**: gRPC, Nacos, Sentinel, Seata, RabbitMQ
 - **Tools**: Git, Vim, Docker, Ollama, VMware, WSL, PuTTY, FlashFXP, Navicat, Maven, Gradle, Conda, Jupyter Notebook, Postman, Apifox, StarUML
 
 # 📈 GitHub Stats
