@@ -9,7 +9,7 @@ Hello, I'm **Howard Zheng**. 👋 You can also call me **HEX9CF**.
 - 🧑‍🎓 Major in **Computer Science**.
 - ❤️ I like **games**, **anime**, and **photography**.
 - 💼 I'm currently working at ~~Aperture Science Computer Enrichment Center~~.
-- 🏢 I used to work at ~~Black Mesa Research Facility~~.
+- 🏢 I used to work at @TencentCloud
 - 📫 How to reach me：**aGV4OWNmQGFsaXl1bi5jb20=** (Email).
 - ⚡ Fun fact: `#99ccff` is a web-safe color and also my favorite color, so my user ID is **HEX9CF**.
 
@@ -23,7 +23,7 @@ I have experience with the following languages, tools, and technologies:
 - **Frameworks**: SpringBoot, Gin, Flask, Django, FastAPI, ThinkPHP, Node.js, Vue.js, Element, Bootstrap, Electron, Wails, Java Swing 
 - **Libraries**: MyBatis-Plus, OpenFeign, Numpy, Pandas, Matplotlib, PyTorch
 - **Databases**: MySQL, PostgreSQL, Microsoft SQL Server, SQLite, MariaDB, Derby, MongoDB, Redis, Elasticsearch
-- **Middlewares**: gRPC, Nacos, Sentinel, Seata, RabbitMQ
+- **Middlewares**: gRPC, tRPC, Nacos, Sentinel, Seata, RabbitMQ
 - **Tools**: Git, Vim, Docker, Ollama, VMware, WSL, PuTTY, FlashFXP, Navicat, Maven, Gradle, Conda, Jupyter Notebook, Postman, Apifox, StarUML
 
 # 📈 GitHub Stats
