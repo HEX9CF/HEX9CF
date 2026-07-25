@@ -19,12 +19,8 @@ Hello, I'm **Howard Zheng**. 👋 You can also call me **HEX9CF**.
 
 I have experience with the following languages, tools, and technologies:
 
-- **Languages**: C, C++, Java, Python, Go, PHP, HTML, CSS, JavaScript, Typescript, SQL, MATLAB, Arduino, Markdown
-- **Frameworks**: SpringBoot, Gin, ThinkPHP, Node.js, Vue.js, Element, Bootstrap
-- **Libraries**: MyBatis-Plus, Numpy, Pandas, Matplotlib, PyTorch
-- **Databases**: MySQL, SQLite, Derby, MongoDB, Redis, Elasticsearch
-- **Middlewares**: gRPC, tRPC, Nacos, Sentinel, Seata, RabbitMQ
-- **Tools**: Git, Vim, Docker, Ollama, Navicat, Maven, Gradle, Conda, Postman
+- **Languages**: C, C++, Java, Python, Go, PHP, Typescript
+- **Frameworks & Libraries**: SpringBoot, Gin, Node.js, Vue.js, React
 
 # 🖥️ Computer Configuration
 
